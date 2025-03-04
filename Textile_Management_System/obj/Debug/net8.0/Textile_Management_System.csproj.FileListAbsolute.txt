@@ -1,0 +1,14 @@
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\bin\Debug\net8.0\Textile_Management_System.exe
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\bin\Debug\net8.0\Textile_Management_System.deps.json
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\bin\Debug\net8.0\Textile_Management_System.runtimeconfig.json
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\bin\Debug\net8.0\Textile_Management_System.dll
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\bin\Debug\net8.0\Textile_Management_System.pdb
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.AssemblyInfoInputs.cache
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.AssemblyInfo.cs
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.dll
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\refint\Textile_Management_System.dll
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.pdb
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\Textile_Management_System.genruntimeconfig.cache
+C:\Users\MONISHAN\source\repos\Textile_Management_System\Textile_Management_System\obj\Debug\net8.0\ref\Textile_Management_System.dll
