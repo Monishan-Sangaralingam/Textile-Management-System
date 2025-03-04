@@ -13,10 +13,9 @@ class Program
         Console.WriteLine("\t\t--------------------------------------");
 
         Console.WriteLine("\n\t\t\t 01. Store Administration");
-        Console.WriteLine("\n\t\t\t 02. Shop Administration");
         Console.WriteLine("\n\t\t\t 03. Exit");
 
-        Shop aShop = new Shop();
+
         Store aStore = new Store();
 
         Console.Write("Enter Your choice :- ");
@@ -28,10 +27,6 @@ class Program
                 case 1:
                     aStore = new Store();
                     aStore.MStore();
-                    break;
-                case 2:
-                    aShop = new Shop();
-                    aShop.MShop();
                     break;
                 case 3:
                     Console.WriteLine("\n\n\n\n\t\t\t Thank you, Have a nice Day");

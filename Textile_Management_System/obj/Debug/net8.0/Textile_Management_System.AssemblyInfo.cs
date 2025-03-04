@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Textile_Management_System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5dc90b2e3dcd9f718a31877b3b2cf14048d0cf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Textile_Management_System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Textile_Management_System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
